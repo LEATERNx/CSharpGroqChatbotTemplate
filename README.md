@@ -1,3 +1,8 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Groq](https://img.shields.io/badge/API-Groq-orange)
+![Stars](https://img.shields.io/github/stars/LEATERNx/CSharpGroqChatbotTemplate)
+
 # 🤖 C# Groq ChatBot Template
 
 A simple and fast console chatbot application using Groq API.
