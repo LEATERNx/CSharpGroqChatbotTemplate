@@ -3,10 +3,6 @@
 ![Groq](https://img.shields.io/badge/API-Groq-orange)
 ![Stars](https://img.shields.io/github/stars/LEATERNx/CSharpGroqChatbotTemplate)
 
-## 🎥 Demo
-
-![Demo](demo.gif)
-
 # 🤖 C# Groq ChatBot Template
 
 A simple and fast console chatbot application using Groq API.
