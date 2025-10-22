@@ -1,0 +1,25 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## Log files
+chat_log.txt
+
+## API Keys
+appsettings.json
+*.env
+
+## Windows
+Thumbs.db
+Desktop.ini
+
+## Mac
+.DS_Store 
