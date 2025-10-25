@@ -198,4 +198,4 @@ Contributions are welcome! Here's how:
 
 ⭐ If you find this project useful, please consider giving it a star!
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [LEATERN]**
